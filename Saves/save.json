@@ -1,0 +1,98 @@
+[
+    [
+        "Sample Game",
+        {
+            "Player 1": [
+                0,
+                [
+                    "Player 4"
+                ]
+            ],
+            "Player 4": [
+                0,
+                [
+                    "Player 1"
+                ]
+            ],
+            "Player 3": [
+                0,
+                [
+                    "Player 2"
+                ]
+            ],
+            "Player 2": [
+                0,
+                [
+                    "Player 3"
+                ]
+            ]
+        },
+        false
+    ],
+    [
+        "Team Game",
+        {
+            "Team 1": [
+                0,
+                [],
+                {
+                    "Player 1": [
+                        0,
+                        []
+                    ],
+                    "Player 2": [
+                        0,
+                        []
+                    ],
+                    "Player 3": [
+                        0,
+                        []
+                    ],
+                    "Player 4": [
+                        0,
+                        []
+                    ],
+                    "Player 5": [
+                        0,
+                        []
+                    ],
+                    "Player 6": [
+                        0,
+                        []
+                    ]
+                }
+            ],
+            "Team 2": [
+                0,
+                [],
+                {
+                    "Player 1": [
+                        0,
+                        []
+                    ],
+                    "Player 2": [
+                        0,
+                        []
+                    ],
+                    "Player 3": [
+                        0,
+                        []
+                    ],
+                    "Player 4": [
+                        0,
+                        []
+                    ],
+                    "Player 5": [
+                        0,
+                        []
+                    ],
+                    "Player 6": [
+                        0,
+                        []
+                    ]
+                }
+            ]
+        },
+        true
+    ]
+]
